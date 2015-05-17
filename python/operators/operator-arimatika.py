@@ -1,14 +1,13 @@
-
-<?php
-$angka1 = (int) 10;
-$angka2 = 50;
-// pertambahan
-echo $angka1 + $angka2;
-// pengurangan
-echo $angka1 - $angka2;
-// perkalian
-echo $angka1 * $angka2;
-// pembagi
-echo $angka1 / $angka2;
-// operator aritmatika dan assignment (memberikan nilai ke variabel lain)
-$hasil = $angka1 + $angka2;
+# memulai python dan operator arimatika
+angka1 = 10
+angka2 = 20
+# pertambahan
+print angka1 + angka2
+# pengurangan
+print angka1 - angka2
+# perkalian
+print angka1 * angka2
+# pembagian
+print angka1 / angka2
+#assigment
+hasil = angka1 + angka2
